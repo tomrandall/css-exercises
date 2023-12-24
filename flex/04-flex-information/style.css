@@ -34,7 +34,11 @@ section {
   gap: 52px;
 
 }
-.test {
-  max-width: 200px;
-}
 
+.test {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
